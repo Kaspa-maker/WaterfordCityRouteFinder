@@ -1,0 +1,17 @@
+Tesco/726/425
+Wit/389/607
+Halfords/28/634
+Lidl/627/553
+Aldi/541/573
+Manor/647/472
+RiverWalk/679/539
+Bridge/642/207
+ClockTower/718/259
+CourtHouse/752/398
+Hospital/1116/542
+ShoppingCenter/400/526
+Odeon/731/417
+HolyTrinityChurch/735/283
+GAA/460/293
+RedHat/119/649
+plunket station/200/700

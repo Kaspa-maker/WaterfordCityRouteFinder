@@ -1,0 +1,20 @@
+Cork Road/Wit/RedHat/22/2
+Cork Road/Wit/Halfords/29/3
+Cork Road/RedHat/Halfords/7/1
+Cork Road/Wit/Aldi/16/1
+Fitzgerald Rd/Aldi/Manor/17/1
+Tramore Rd/Aldi/Lidl/13/1
+Tramore Rd/Aldi/RiverWalk/21/2
+Inner Ring Rd/Lidl/RiverWalk/8/1
+Tramore Rd/Lidl/Manor/7/1
+Manor St/Manor/ClockTower/17/2
+Grattan Quay/ClockTower/Bridge/11/1
+Catherine St/ClockTower/CourtHouse/9/2
+Dunmore Rd/CourtHouse/Hospital/29/3
+Paddy Browne's Rd/Wit/ShoppingCenter/11/1
+Manor St/Manor/Odeon/9/1
+Inner Ring Rd/Odeon/RiverWalk/15/2
+Exchange St/ClockTower/HolyTrinityChurch/2/0
+Bridge St/Bridge/GAA/23/2
+Ozanam St/GAA/ClockTower/21/2
+Clock tower street/ClockTower/plunket station/10/2

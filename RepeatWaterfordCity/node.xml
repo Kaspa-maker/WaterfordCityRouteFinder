@@ -1,0 +1,229 @@
+<object-stream>
+  <list>
+    <sample.Node>
+      <dirtyBits>-1</dirtyBits>
+      <__geomBounds class="com.sun.javafx.geom.RectBounds">
+        <minX>0.0</minX>
+        <maxX>-1.0</maxX>
+        <minY>0.0</minY>
+        <maxY>-1.0</maxY>
+      </__geomBounds>
+      <__txBounds class="com.sun.javafx.geom.RectBounds">
+        <minX>0.0</minX>
+        <maxX>-1.0</maxX>
+        <minY>0.0</minY>
+        <maxY>-1.0</maxY>
+      </__txBounds>
+      <pendingUpdateBounds>false</pendingUpdateBounds>
+      <parentDisabledChangedListener class="null"/>
+      <parentTreeVisibleChangedListener class="null"/>
+      <windowShowingChangedListener class="null"/>
+      <sceneWindowChangedListener class="null"/>
+      <scene>
+        <valid>true</valid>
+        <name></name>
+        <outer-class class="sample.Node" reference="../.."/>
+      </scene>
+      <styleClass class="javafx.scene.Node$4">
+        <listenerHelper class="com.sun.javafx.collections.ListListenerHelper$SingleChange">
+          <listener class="null"/>
+        </listenerHelper>
+        <changeBuilder>
+          <list class="javafx.scene.Node$4" reference="../.."/>
+          <changeLock>0</changeLock>
+        </changeBuilder>
+        <backingList/>
+        <outer-class class="sample.Node" reference="../.."/>
+      </styleClass>
+      <derivedDepthTest>true</derivedDepthTest>
+      <layoutBounds class="javafx.scene.Node$13">
+        <valid>false</valid>
+        <outer-class class="sample.Node" reference="../.."/>
+      </layoutBounds>
+      <localToParentTx class="com.sun.javafx.geom.transform.Identity"/>
+      <transformDirty>true</transformDirty>
+      <txBounds class="com.sun.javafx.geom.RectBounds">
+        <minX>0.0</minX>
+        <maxX>-1.0</maxX>
+        <minY>0.0</minY>
+        <maxY>-1.0</maxY>
+      </txBounds>
+      <geomBounds class="com.sun.javafx.geom.RectBounds">
+        <minX>0.0</minX>
+        <maxX>-1.0</maxX>
+        <minY>0.0</minY>
+        <maxY>-1.0</maxY>
+      </geomBounds>
+      <boundsChanged>false</boundsChanged>
+      <geomBoundsInvalid>true</geomBoundsInvalid>
+      <localBoundsInvalid>true</localBoundsInvalid>
+      <txBoundsInvalid>true</txBoundsInvalid>
+      <resolvedNodeOrientation>0</resolvedNodeOrientation>
+      <treeShowing>false</treeShowing>
+      <treeVisible>true</treeVisible>
+      <treeVisibleRO>
+        <valid>true</valid>
+        <outer-class class="sample.Node" reference="../.."/>
+      </treeVisibleRO>
+      <canReceiveFocus>false</canReceiveFocus>
+      <cssFlag>CLEAN</cssFlag>
+      <pseudoClassStates class="com.sun.javafx.css.PseudoClassState">
+        <bits/>
+      </pseudoClassStates>
+      <name>Tesco</name>
+      <edges/>
+      <x>200</x>
+      <y>200</y>
+    </sample.Node>
+    <sample.Node>
+      <dirtyBits>-1</dirtyBits>
+      <__geomBounds class="com.sun.javafx.geom.RectBounds">
+        <minX>0.0</minX>
+        <maxX>-1.0</maxX>
+        <minY>0.0</minY>
+        <maxY>-1.0</maxY>
+      </__geomBounds>
+      <__txBounds class="com.sun.javafx.geom.RectBounds">
+        <minX>0.0</minX>
+        <maxX>-1.0</maxX>
+        <minY>0.0</minY>
+        <maxY>-1.0</maxY>
+      </__txBounds>
+      <pendingUpdateBounds>false</pendingUpdateBounds>
+      <parentDisabledChangedListener class="null"/>
+      <parentTreeVisibleChangedListener class="null"/>
+      <windowShowingChangedListener class="null"/>
+      <sceneWindowChangedListener class="null"/>
+      <scene>
+        <valid>true</valid>
+        <name></name>
+        <outer-class class="sample.Node" reference="../.."/>
+      </scene>
+      <styleClass class="javafx.scene.Node$4">
+        <listenerHelper class="com.sun.javafx.collections.ListListenerHelper$SingleChange">
+          <listener class="null"/>
+        </listenerHelper>
+        <changeBuilder>
+          <list class="javafx.scene.Node$4" reference="../.."/>
+          <changeLock>0</changeLock>
+        </changeBuilder>
+        <backingList/>
+        <outer-class class="sample.Node" reference="../.."/>
+      </styleClass>
+      <derivedDepthTest>true</derivedDepthTest>
+      <layoutBounds class="javafx.scene.Node$13">
+        <valid>false</valid>
+        <outer-class class="sample.Node" reference="../.."/>
+      </layoutBounds>
+      <localToParentTx class="com.sun.javafx.geom.transform.Identity" reference="../../sample.Node/localToParentTx"/>
+      <transformDirty>true</transformDirty>
+      <txBounds class="com.sun.javafx.geom.RectBounds">
+        <minX>0.0</minX>
+        <maxX>-1.0</maxX>
+        <minY>0.0</minY>
+        <maxY>-1.0</maxY>
+      </txBounds>
+      <geomBounds class="com.sun.javafx.geom.RectBounds">
+        <minX>0.0</minX>
+        <maxX>-1.0</maxX>
+        <minY>0.0</minY>
+        <maxY>-1.0</maxY>
+      </geomBounds>
+      <boundsChanged>false</boundsChanged>
+      <geomBoundsInvalid>true</geomBoundsInvalid>
+      <localBoundsInvalid>true</localBoundsInvalid>
+      <txBoundsInvalid>true</txBoundsInvalid>
+      <resolvedNodeOrientation>0</resolvedNodeOrientation>
+      <treeShowing>false</treeShowing>
+      <treeVisible>true</treeVisible>
+      <treeVisibleRO>
+        <valid>true</valid>
+        <outer-class class="sample.Node" reference="../.."/>
+      </treeVisibleRO>
+      <canReceiveFocus>false</canReceiveFocus>
+      <cssFlag>CLEAN</cssFlag>
+      <pseudoClassStates class="com.sun.javafx.css.PseudoClassState">
+        <bits reference="../../../sample.Node/pseudoClassStates/bits"/>
+      </pseudoClassStates>
+      <name>WIT</name>
+      <edges/>
+      <x>500</x>
+      <y>500</y>
+    </sample.Node>
+    <sample.Node>
+      <dirtyBits>-1</dirtyBits>
+      <__geomBounds class="com.sun.javafx.geom.RectBounds">
+        <minX>0.0</minX>
+        <maxX>-1.0</maxX>
+        <minY>0.0</minY>
+        <maxY>-1.0</maxY>
+      </__geomBounds>
+      <__txBounds class="com.sun.javafx.geom.RectBounds">
+        <minX>0.0</minX>
+        <maxX>-1.0</maxX>
+        <minY>0.0</minY>
+        <maxY>-1.0</maxY>
+      </__txBounds>
+      <pendingUpdateBounds>false</pendingUpdateBounds>
+      <parentDisabledChangedListener class="null"/>
+      <parentTreeVisibleChangedListener class="null"/>
+      <windowShowingChangedListener class="null"/>
+      <sceneWindowChangedListener class="null"/>
+      <scene>
+        <valid>true</valid>
+        <name></name>
+        <outer-class class="sample.Node" reference="../.."/>
+      </scene>
+      <styleClass class="javafx.scene.Node$4">
+        <listenerHelper class="com.sun.javafx.collections.ListListenerHelper$SingleChange">
+          <listener class="null"/>
+        </listenerHelper>
+        <changeBuilder>
+          <list class="javafx.scene.Node$4" reference="../.."/>
+          <changeLock>0</changeLock>
+        </changeBuilder>
+        <backingList/>
+        <outer-class class="sample.Node" reference="../.."/>
+      </styleClass>
+      <derivedDepthTest>true</derivedDepthTest>
+      <layoutBounds class="javafx.scene.Node$13">
+        <valid>false</valid>
+        <outer-class class="sample.Node" reference="../.."/>
+      </layoutBounds>
+      <localToParentTx class="com.sun.javafx.geom.transform.Identity" reference="../../sample.Node/localToParentTx"/>
+      <transformDirty>true</transformDirty>
+      <txBounds class="com.sun.javafx.geom.RectBounds">
+        <minX>0.0</minX>
+        <maxX>-1.0</maxX>
+        <minY>0.0</minY>
+        <maxY>-1.0</maxY>
+      </txBounds>
+      <geomBounds class="com.sun.javafx.geom.RectBounds">
+        <minX>0.0</minX>
+        <maxX>-1.0</maxX>
+        <minY>0.0</minY>
+        <maxY>-1.0</maxY>
+      </geomBounds>
+      <boundsChanged>false</boundsChanged>
+      <geomBoundsInvalid>true</geomBoundsInvalid>
+      <localBoundsInvalid>true</localBoundsInvalid>
+      <txBoundsInvalid>true</txBoundsInvalid>
+      <resolvedNodeOrientation>0</resolvedNodeOrientation>
+      <treeShowing>false</treeShowing>
+      <treeVisible>true</treeVisible>
+      <treeVisibleRO>
+        <valid>true</valid>
+        <outer-class class="sample.Node" reference="../.."/>
+      </treeVisibleRO>
+      <canReceiveFocus>false</canReceiveFocus>
+      <cssFlag>CLEAN</cssFlag>
+      <pseudoClassStates class="com.sun.javafx.css.PseudoClassState">
+        <bits reference="../../../sample.Node/pseudoClassStates/bits"/>
+      </pseudoClassStates>
+      <name>izku</name>
+      <edges/>
+      <x>1</x>
+      <y>1</y>
+    </sample.Node>
+  </list>
+</object-stream>
